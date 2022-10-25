@@ -7,3 +7,6 @@ https://app.milanote.com/1OInkO1g5D4h3B?p=sX4uxwWwtix
 
 Join the discord!
 https://discord.gg/xUGhfGzTJV
+
+If you would like to be part of the team fill out this form!
+https://forms.gle/eF8xb67aaziwCDMSA
