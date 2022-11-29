@@ -13,8 +13,8 @@ https://forms.gle/eF8xb67aaziwCDMSA
 <br>
 
 Team Members:  
-Hunter - Founder & Lead Programmer
-Grayson - Co-Founder, Programmer, & GitHub Maintainer
-Wyatt - Lead Designer
-Joel - Programmer
-Tobymasu - Designer
+Hunter - Founder & Lead Programmer  
+Grayson - Co-Founder, Programmer, & GitHub Maintainer  
+Wyatt - Lead Designer  
+Joel - Programmer  
+Tobymasu - Designer  
