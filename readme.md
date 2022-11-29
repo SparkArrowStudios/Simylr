@@ -12,7 +12,7 @@ If you would like to be part of the team fill out this form!
 https://forms.gle/eF8xb67aaziwCDMSA  
 <br>
 
-Team Members:  
+__Team Members:__  
 Hunter - Founder & Lead Programmer  
 Grayson - Co-Founder, Programmer, & GitHub Maintainer  
 Wyatt - Lead Designer  
