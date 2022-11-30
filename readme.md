@@ -1,6 +1,6 @@
-BeFake is a mock version of the popular app, "BeReal."  
+Simylr is a mock version of the popular app, "BeReal."  
 In this app, the user will get an image prompt and then will photoshop an image of themselves to make it look like the prompt.  
-Then, the photoshopped picture of the user will be rated and put on the leaderboard.  
+Then, the photoshopped picture of the user will be posted and can be rated by friends.  
 <br>
 Concept art & Ideas: 
 https://app.milanote.com/1OInkO1g5D4h3B?p=sX4uxwWwtix  
