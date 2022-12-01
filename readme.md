@@ -5,6 +5,9 @@ Then, the photoshopped picture of the user will be posted and can be rated by fr
 Concept art & Ideas: 
 https://app.milanote.com/1OInkO1g5D4h3B?p=sX4uxwWwtix  
 <br>
+Follow the Simylr Instagram  
+https://instagram.com/@sim.ylr  
+<br>
 Join the discord!  
 https://discord.gg/xUGhfGzTJV  
 <br>
