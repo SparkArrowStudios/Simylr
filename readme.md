@@ -1,5 +1,5 @@
 Simylr is a mock version of the popular app, "BeReal."  
-In this app, the user will get an image prompt and then will photoshop an image of themselves to make it look like the prompt.  
+In this app, the user will get an image prompt and then will photoshop an image of themselves to make it as Simylr to the prompt as possible.  
 Then, the photoshopped picture of the user will be posted and can be rated by friends.  
 <br>
 Concept art & Ideas: 
