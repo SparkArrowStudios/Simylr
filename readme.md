@@ -20,4 +20,4 @@ Hunter - Founder & Lead Programmer
 Grayson - Co-Founder, Programmer, & GitHub Maintainer  
 Wyatt - Lead Designer  
 Joel - Programmer  
-Tobymasu - Designer  
+Tobimasu - Designer  
