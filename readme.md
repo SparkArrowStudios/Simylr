@@ -3,7 +3,7 @@ In this app, the user will get an image prompt and then will photoshop an image 
 Then, the photoshopped picture of the user will be posted and can be rated by friends.  
 <br>
 Concept art & Ideas  
-https://app.milanote.com/1OInkO1g5D4h3B?p=sX4uxwWwtix  
+https://app.milanote.com/1OInkO1g5D4h3B?p=sX4uxwWwtix
 <br>
 Follow the Simylr Instagram  
 https://instagram.com/sim.ylr  
