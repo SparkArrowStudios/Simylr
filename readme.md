@@ -8,7 +8,7 @@ https://app.milanote.com/1OInkO1g5D4h3B?p=sX4uxwWwtix
 Follow the Simylr Instagram  
 https://instagram.com/sim.ylr  
 <br>
-Join the discord!  
+Join the SparkArrow Studios discord!  
 https://discord.gg/xUGhfGzTJV  
 <br>
 If you would like to be part of the team fill out this form!  
